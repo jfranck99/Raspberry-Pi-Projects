@@ -1,0 +1,11 @@
+# Tune 1
+2. times do
+  play 76
+  sleep 0.75
+  play 72
+  sleep 0.75
+  play 74
+  sleep 0.75
+  play 79
+  sleep 5
+end
